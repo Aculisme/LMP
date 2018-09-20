@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: "post"
 title:  "Luca Mehl's Portfolio"
-date:   2018-09-19 20:37:04 +0200
+date:   "2018-09-19 20:37:04 +0200"
 categories: jekyll update
 ---
-##Projects:
 
-#Network Version 0 - 14 (NV14)
+Projects:
+
+Network Version 0 - 14 (NV14)
 A project attempting to accurately visualize social structures within my year group.
 
-#Portable Weather Data Logger (PWDL)
+Portable Weather Data Logger (PWDL)
 Personal project (IB) that records atmospheric conditions, logs them, and allows for them to be mapped.
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.
 

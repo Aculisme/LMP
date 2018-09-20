@@ -1,2 +1,0 @@
-# LMP
-Luca Mehl portfolio
