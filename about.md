@@ -1,18 +1,61 @@
 ---
 layout: page
-title: About
+title: Portfolio
 permalink: /about/
 ---
+## **Projects:** ##
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Network Version 14 (NV14)
+A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my yeargroup. Nodes inputted into [Gephi](https://gephi.com), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
+Status: `completed`  
+Links: [NV14](http://nv14.ga)  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Sign-in project
+A 6-month project to develop a late-slip dispenser and software.  
+The student was able to scan their ID card with a barcode scanner, they would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
+Despite a complete working product, the school was unwilling to give access to the student database. The project ended up acting as a proof of concept, and subsequently a catalyst for the school to employ a company to make a fully-fledged sign-in system with sliding doors and RFID.  
+Status: `completed`  
+Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | 
+[Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Portable Weather Data Logger (PWDL)
+Personal project (IB) that records atmospheric conditions, logs them, and allows for them to be mapped.
+Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.  
+Languages: `C++`  
+Status: `completed`  
+Links:
+* [Ski trip GPS recorded with PWDL](https://ski-week-2018.netlify.com)
+  * [Google earth rendering](https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F)
+* [DoE silver level trip GPS recorded with PWDL](https://ia-silver-route-2018.netlify.com)
 
+# School Social Media Directory
+Summer coding project   
+Languages: `CSS` `HTML` `SCSS` `JS`  
+Version control: `Bitbucket`  
+Status: `on hold`  
+Links: [Social Media Directory](http://nv15.ga)
 
-[jekyll-organization]: https://github.com/jekyll
+# ManageBac grades extractor
+A web scraping tool that extracts grades from [Managebac](https://managebac.com) and can analyse them in a dashboard window.  
+Languages: `PHP`  
+Version control: `Bitbucket`  
+Status: `on hold`  
+Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index.html)
+
+# MEAI (MemeEconomy Artificial Intelligence)
+Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (praw).  
+Languages: `Python`  
+Version control: `Bitbucket`  
+Status: `in progress`  
+Links: [Homepage](https://meai.ml) | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)  
+
+## **Knowledge:** ##
+# Python
+# PHP
+# HTML/CSS/JQuery/JS
+# SQL/PHPMyAdmin
+
+## **Experiences:** ##
+
+# CERN Internship
+I conducted a week-long internship at CERN with the web development and app development teams.
