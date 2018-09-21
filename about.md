@@ -47,10 +47,11 @@ Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit]
 Languages: `Python`  
 Version control: `Bitbucket`  
 Status: `in progress`  
-Links: [Homepage](https://meai.ml) | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)  
+Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)-->  
 
 ## **Knowledge:** ##
 # Python
+# GIT
 # PHP
 # HTML/CSS/JQuery/JS
 # SQL/PHPMyAdmin
@@ -59,3 +60,6 @@ Links: [Homepage](https://meai.ml) | [investor reddit bot](https://reddit.com/u/
 
 # CERN Internship
 I conducted a week-long internship at CERN with the web development and app development teams.
+
+# EPFL Robotics Course
+I participated in a week-long crash course to some big CS/robotics elements, including control system programming, mapping/localisation (SLAM), behavioural algorithms, and neural nets.
