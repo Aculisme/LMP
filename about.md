@@ -33,27 +33,27 @@ Links:
 # School Social Media Directory
 Summer coding project   
 Languages: `CSS` `HTML` `SCSS` `JS`  
-Version control: `Bitbucket`  
+Version control: `Git` `(Bitbucket)`  
 Status: `on hold`  
 Links: [Social Media Directory](http://nv15.ga)
 
 # ManageBac grades extractor
 A web scraping tool that extracts grades from [Managebac](https://managebac.com) and can analyse them in a dashboard window.  
 Languages: `PHP`  
-Version control: `Bitbucket`  
+Version control: `Git` `(Bitbucket)`  
 Status: `on hold`  
 Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index.html)
 
 # MEAI (MemeEconomy Artificial Intelligence)
 Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (praw).  
 Languages: `Python`  
-Version control: `Bitbucket`  
+Version control: `Git` `(Bitbucket)`  
 Status: `in progress`  
 Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)-->  
 
 ## **Knowledge:** ##
 # Python
-# GIT
+# Git
 # PHP
 # HTML/CSS/JQuery/JS
 # SQL/PHPMyAdmin
