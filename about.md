@@ -7,6 +7,7 @@ permalink: /about/
 
 # Network Version 14 (NV14)
 A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my yeargroup. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
+Languages: `JavaScript` `Java` `SQL`  
 Status: `completed`  
 Links: [NV14](http://nv14.ga)  
 
@@ -14,6 +15,7 @@ Links: [NV14](http://nv14.ga)
 A 6-month project to develop a late-slip dispenser and software.  
 The student was able to scan their ID card with a barcode scanner, they would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
 Despite a complete working product, the school was unwilling to give access to the student database. The project ended up acting as a proof of concept, and subsequently a catalyst for the school to employ a company to make a fully-fledged sign-in system with sliding doors and RFID.  
+Languages: `CSS` `HTML` `PHP`  
 Status: `completed`  
 Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | 
 [Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)  
