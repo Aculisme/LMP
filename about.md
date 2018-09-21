@@ -6,7 +6,7 @@ permalink: /about/
 ## **Projects:** ##
 
 # Network Version 14 (NV14)
-A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my yeargroup. Nodes inputted into [Gephi](https://gephi.com), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
+A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my yeargroup. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
 Status: `completed`  
 Links: [NV14](http://nv14.ga)  
 
