@@ -84,4 +84,4 @@ I participated in a week-long crash course to some big CS/robotics elements, inc
 * 2018 Representative of Hungary
 
 
-[Download CV]({{site.url}}/assets/CV.jpg)
+[Download CV]({{site.url}}/assets/CV.png)
