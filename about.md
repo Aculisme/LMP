@@ -79,3 +79,9 @@ I participated in a week-long crash course to some big CS/robotics elements, inc
 * Top team in Switzerland (2015)
 * 8th Place Globally (2016)
 * Top team in Europe (2015)
+### Student's League of Nations ###
+* 2017 Representative of Mauritania
+* 2018 Representative of Hungary
+
+
+[Download CV]({{site.url}}/assets/CV.jpg)
