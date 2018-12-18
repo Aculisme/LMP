@@ -13,6 +13,16 @@ Languages: `JavaScript` `Java` `SQL`
 Status: `completed`  
 Links: [NV14](http://nv14.ga)  
 
+## Network Version 18 (NV18) ##
+A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).
+Languages: `PHP` `SQL` `Git`
+Status: `on hold`  
+Links: 
+* [4196x4196 Black background]({{site.url}}/assets/nv18_pink.png)
+* [4196x4196 Grey background]({{site.url}}/assets/nv18_pink_white_bg_black_txt.png)
+* [4196x4196 No background, White text]({{site.url}}/assets/nv18_pink_nobg.png)
+* [4196x4196 No background, Black text]({{site.url}}/assets/nv18_pink_nobg_black_txt.png)
+
 ## Sign-in project ##
 A 6-month project to develop a late-slip dispenser and software.  
 The student was able to scan their ID card with a barcode scanner, they would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
