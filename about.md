@@ -79,6 +79,9 @@ Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
 
 # Knowledge: #
 * Python
+  * Tensorflow (limited experience)
+  * Tkinter for GUI creation
+  * PRAW Reddit API (extensive knowledge)
 * Git
 * PHP
 * HTML/CSS/JQuery/JS
@@ -101,6 +104,8 @@ I participated in a week-long crash course to some big CS/robotics elements, inc
 ### Student's League of Nations ###
 * 2017 Representative of Mauritania
 * 2018 Representative of Hungary
+### University of Waterloo 
+* Beaver Computing Challenge Certificate of Distinction (2017)
 
 
 [Download CV]({{site.url}}/assets/CV.png)
