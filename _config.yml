@@ -40,8 +40,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+plugins:
+  - jekyll-redirect-from
 
-collections:
-  redirects:
-    output: true
-    permalink: /:path/
+whitelist:
+  - jekyll-redirect-from
