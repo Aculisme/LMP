@@ -98,8 +98,9 @@ I conducted a week-long internship at CERN with the web development and app deve
 ### EPFL Robotics Course ###  
 I participated in a week-long crash course to some big CS/robotics elements, including control system programming, mapping/localisation (SLAM), behavioural algorithms, and neural nets.
 
-# Non-CS Experiences: #  
 ---
+# Non-CS Experiences: #  
+
 ### CERN Beamline for Schools ###  
 
 ### World Scholar's Cup ###  
