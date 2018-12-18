@@ -39,3 +39,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections:
+  redirects:
+    output: true
+    permalink: /:path/
