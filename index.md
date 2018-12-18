@@ -5,7 +5,6 @@
 title: Yeetable
 redirect_from:
   - /about/
-  - /
 
 layout: home
 ---
