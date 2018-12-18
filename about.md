@@ -98,21 +98,26 @@ I conducted a week-long internship at CERN with the web development and app deve
 ### EPFL Robotics Course ###  
 I participated in a week-long crash course to some big CS/robotics elements, including control system programming, mapping/localisation (SLAM), behavioural algorithms, and neural nets.
 
-# Non-CS Experiences: #
-### CERN Beamline for Schools ###
+# Non-CS Experiences: #  
+---
+### CERN Beamline for Schools ###  
+
 ### World Scholar's Cup ###  
 * Top team in Switzerland (2015)  
 * 8th Place Globally (2016)  
 * Top team in Europe (2015)  
+
 ### Student's League of Nations ###  
 * 2017 Representative of Mauritania  
 * 2018 Representative of Hungary  
+
 ### University of Waterloo ###  
 * Gauss Contest
 * Pascal Contest
 * Hypatia Contest Certificate of Distinction (2018)
 * Beaver Computing Challenge Certificate of Distinction (2017)  
 * Beaver Computing Challenge Certificate of Distinction (2018)  
+
 ### Other ###  
 * Big Science Competition Certificate of High Destinction (2016)
 
