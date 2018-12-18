@@ -2,6 +2,8 @@
 layout: page
 title: Portfolio
 permalink: /about/
+redirect_from:
+  - /
 ---
 # **Projects:** #
 

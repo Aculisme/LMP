@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Yeetable
-redirect_from:
-  - /about/
+# redirect_from:
+#   - /about/
 
 layout: home
 ---
