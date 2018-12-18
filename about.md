@@ -15,7 +15,7 @@ Links: [NV14](http://nv14.ga)
 
 ## Network Version 18 (NV18) ##
 A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).
-Languages: `PHP` `SQL` `Git`
+Languages: `PHP` `SQL` `Git`  
 Status: `on hold`  
 Links: 
 * [4196x4196 Black background]({{site.url}}/assets/nv18_pink.png)
@@ -50,14 +50,14 @@ Status: `on hold`
 Links: [Social Media Directory](http://nv15.ga)
 
 ## ManageBac grades extractor ##
-A web scraping tool that extracts grades from [Managebac](https://managebac.com) and can analyse them in a dashboard window.  
+A web scraping tool that extracts grades from [Managebac](https://cdn.managebac.com) and can analyse them in a dashboard window.  
 Languages: `PHP`  
 Version control: `Git` | `Bitbucket`  
 Status: `on hold`  
 Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index.html)
 
 ## MEAI (MemeEconomy Artificial Intelligence) ##
-Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (praw).  
+Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (PRAW).  
 Languages: `Python`  
 Version control: `Git` | `Bitbucket`  
 Status: `in progress`  
@@ -67,8 +67,15 @@ Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.co
 An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder. Currently supports customization of `subreddit`,`number of images`, and `minimum image score to download`.
 Languages: `Python`  
 Version control: `Git` | `Github`  
-Status: `in progress`  
+Status: `on hold`  
 Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)
+
+## Portfolio ##
+This website is hosted by Netlify (formerly bitballoon), deployed from [Github](https://github.com/Aculisme/LMP), and created using the [Jekyll](https://jekyllrb.com) static website generator.
+Languages: `Git` `Markdown`  
+Version control: `Git` | `Github`  
+Status: `regularly updated`  
+Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
 
 # Knowledge: #
 * Python
