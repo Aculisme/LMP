@@ -77,6 +77,7 @@ Version control: `Git` | `Github`
 Status: `regularly updated`  
 Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
 
+---
 # Programming Languages: #  
 * Python  
   * Tensorflow (limited experience)  
@@ -109,8 +110,8 @@ I participated in a week-long crash course to some big CS/robotics elements, inc
 * Top team in Europe (2015)  
 
 ### Student's League of Nations ###  
-* 2017 Representative of Mauritania  
-* 2018 Representative of Hungary  
+* Representative of Mauritania (2017)  
+* Representative of Hungary (2018)  
 
 ### University of Waterloo ###  
 * Gauss Contest
