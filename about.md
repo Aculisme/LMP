@@ -70,42 +70,50 @@ Version control: `Git` | `Github`
 Status: `on hold`  
 Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)
 
-## Portfolio ##
+## Portfolio website ##
 This website is hosted by Netlify (formerly bitballoon), deployed from [Github](https://github.com/Aculisme/LMP), and created using the [Jekyll](https://jekyllrb.com) static website generator.
 Languages: `Git` `Markdown`  
 Version control: `Git` | `Github`  
 Status: `regularly updated`  
 Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
 
-# Knowledge: #
-* Python
-  * Tensorflow (limited experience)
-  * Tkinter for GUI creation
-  * PRAW Reddit API (extensive knowledge)
-* Git
-* PHP
-* HTML/CSS/JQuery/JS
-* SQL/PHPMyAdmin
+# Programming Languages: #  
+* Python  
+  * Tensorflow (limited experience)  
+  * Tkinter for GUI creation  
+  * PRAW Reddit API (extensive knowledge)  
+* Git  
+* PHP  
+* HTML/CSS/JQuery/JS  
+* SQL/PHPMyAdmin  
+  * Database creation and maintenance (significant experience)  
+    * MySql  
 
-# Experiences: #
+---
+# Experiences: #  
 
-### CERN Internship ###
-I conducted a week-long internship at CERN with the web development and app development teams.
+### CERN Internship ###  
+I conducted a week-long internship at CERN with the web development and app development teams.  
 
-### EPFL Robotics Course ###
+### EPFL Robotics Course ###  
 I participated in a week-long crash course to some big CS/robotics elements, including control system programming, mapping/localisation (SLAM), behavioural algorithms, and neural nets.
 
 # Non-CS Experiences: #
 ### CERN Beamline for Schools ###
-### World Scholar's Cup ###
-* Top team in Switzerland (2015)
-* 8th Place Globally (2016)
-* Top team in Europe (2015)
-### Student's League of Nations ###
-* 2017 Representative of Mauritania
-* 2018 Representative of Hungary
-### University of Waterloo 
-* Beaver Computing Challenge Certificate of Distinction (2017)
-
+### World Scholar's Cup ###  
+* Top team in Switzerland (2015)  
+* 8th Place Globally (2016)  
+* Top team in Europe (2015)  
+### Student's League of Nations ###  
+* 2017 Representative of Mauritania  
+* 2018 Representative of Hungary  
+### University of Waterloo ###  
+* Gauss Contest
+* Pascal Contest
+* Hypatia Contest Certificate of Distinction (2018)
+* Beaver Computing Challenge Certificate of Distinction (2017)  
+* Beaver Computing Challenge Certificate of Distinction (2018)  
+### Other ###  
+* Big Science Competition Certificate of High Destinction (2016)
 
 [Download CV]({{site.url}}/assets/CV.png)
