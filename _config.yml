@@ -45,7 +45,8 @@ plugins:
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-seo-tag.
+  - jekyll-seo-tag
 
 whitelist:
   - jekyll-redirect-from
+  - jekyll-seo-tag
