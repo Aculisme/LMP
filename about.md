@@ -83,12 +83,14 @@ Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
   * Tensorflow (limited experience)  
   * Tkinter for GUI creation  
   * PRAW Reddit API (extensive knowledge)  
+  * RClone (intermediate knowledge)
 * Git  
 * PHP  
 * HTML/CSS/JQuery/JS  
 * SQL/PHPMyAdmin  
   * Database creation and maintenance (significant experience)  
     * MySql  
+* Unix terminal and Command line (intermediate knowledge)
 
 ---
 # Experiences: #  
