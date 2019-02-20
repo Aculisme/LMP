@@ -37,7 +37,7 @@ This project was completed for my Personal Project (International Baccalaureate)
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.  
 Languages: `C++`  
 Status: `completed`  
-Links:
+Links:  
 * [Ski trip GPS recorded with PWDL](https://ski-week-2018.netlify.com)
   * [Google Earth visualization of GPS coordinates](https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F)
 * [Duke of Edinburgh's International Award silver level trip recorded with PWDL](https://ia-silver-route-2018.netlify.com)
@@ -68,27 +68,30 @@ Status: `in progress`
 Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)-->  
 
 ## Reddit image extractor script ##
-An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder. 
+An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.   
 Languages: `Python`  
 Version control: `Git` | `Github`  
 Status: `on hold`  
-Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)
+Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)  
 
-## Portfolio website ##
+## Portfolio website ##  
 This website is hosted by Netlify (formerly Bitballoon), deployed from [Github](https://github.com/Aculisme/LMP), and created using the [Jekyll](https://jekyllrb.com) static website generator.
 Languages: `Git` `Markdown`  
 Version control: `Git` | `Github`  
 Status: `regularly updated`  
-Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)
+Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)  
 
-## Reddit text gen ##
-I built this toolkit on top of the fantastic TexGenRnn Python library, allowing for easier text generation training using inputs from the Reddit community. 
-[Work in Progress]
+## Reddit text generator ##  
+I built this toolkit on top of the fantastic TexGenRnn Python library, allowing for easier text generation training using inputs from the Reddit community.  
+[Work in Progress]  
+Links: [github](https://github.com/aculisme/UNRG)  
 
 ## ASCII converter bot ##
-[Work in Progress]
-Languages: `Python`
-Version control: `Git` | `BitBucket` | (Private)
+Originally a simple programming exercise, this project is now so large that it is best described as two seperate parts:
+1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
+2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [still in progress]  
+Languages: `Python`  
+Version control: `Git` | `BitBucket` | (Private)  
 
 # Upcoming Projects: #
 ### Custom event ticket identifying software ###
@@ -155,8 +158,7 @@ Resources: [Progress Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-
 * Beaver Computing Challenge Certificate of Distinction (2018)  
 
 ### mHealth in Bangladesh ###
-I joined an mHealth project in Bangladesh over a three week period under the supervision of Dr. Alain Labrique. 
-I had the great experience of spending time with the coders at mPower in Dhaka, and then working with the rural JiVitA mobile health field project in Gaibandha. I primarily worked on developing video instructions for health workers on using mobile devices connected to the mPower medical registry system.
+I joined an mHealth project in Bangladesh over a three week period under the supervision of Dr. Alain Labrique. I had the great experience of spending time with the coders at mPower in Dhaka, and then working with the rural JiVitA mobile health field project in Gaibandha. I primarily worked on developing video instructions for health workers on using mobile devices connected to the mPower medical registry system.
 
 ### Other ###  
 * Big Science Competition Certificate of High Distinction (2016)
