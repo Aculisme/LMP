@@ -7,13 +7,13 @@ redirect_from:
 ---
 # **Projects:** #
 
-## Network Version 14 (NV14) ##
+## Network Analysis Version 14 (NV14) ##
 A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
 Languages: `JavaScript` `Java` `SQL`  
 Status: `completed`  
 Links: [NV14](http://nv14.ga)  
 
-## Network Version 18 (NV18) ##
+## Network Analysis Version 18 (NV18) ##
 A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).
 Languages: `PHP` `SQL` `Git`  
 Status: `on hold`  
@@ -24,16 +24,16 @@ Links:
 * [4196x4196 No background, Black text]({{site.url}}/assets/nv18_pink_nobg_black_txt.png)
 
 ## Sign-in Project ##
-A 6-month project to develop a late-slip dispenser and software, created in response to students' frustrated with the previous late arrivals sign-in system, which required them to wait on line to fill out a slip of paper, making them even later for class.  
-Student scanned their ID card with a barcode scanner, they would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
-Despite a complete working product, the school was unwilling to give access to the student database. The project ended up acting as a proof of concept, and subsequently a catalyst for the school to retain a company to make a fully-fledged sign-in system with sliding doors and RFID.  
+A 6-month project to develop a late-slip dispenser and software, created in response to students' frustration with the previous late arrivals sign-in system, which required them to wait on line to fill out a slip of paper, making them even later for class.  
+With the new system, students scanned their ID card with a barcode scanner, would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
+Despite a complete working product, the school was unable to give access to the student database. The project ended up acting as a proof-of-concept, and subsequently a catalyst for the school to contract a company to install a fully-fledged sign-in system with sliding doors and RFID.  
 Languages: `CSS` `HTML` `PHP`  
 Status: `completed`  
 Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [Directory](https://nationsdesign.org/projects/signin/search.html) | 
 [Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)  
 
 ## Portable Weather Data Logger (PWDL) ##
-This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle & aunt, climatologists, who perform dozens of measurements every hour on their trips in the Peruvian Andes. Unfortunately they used analog instruments for each of these measurements, making the whole process highly time-consuming. My Weather Logger therefore served to fulfill this need by being able to record the many different atmospheric conditions, log them in a human-readable document, maps them (with GPS), perpetually, and with minimal input from the users.
+This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle & aunt, a climate scientist & wildlife biologist, who perform dozens of measurements every hour on their research trips in the Peruvian Andes. My Weather Logger is designed to save them time while they focus on their field activities, being able to record the many different atmospheric conditions, log them in a human-readable document, map them (with GPS) perpetually, and with minimal input from the users.
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.  
 Languages: `C++`  
 Status: `completed`  
@@ -87,15 +87,25 @@ I built this toolkit on top of the fantastic TexGenRnn Python library, allowing 
 Links: [github](https://github.com/aculisme/UNRG)  
 
 ## ASCII converter bot ##
-Originally a simple programming exercise, this project is now so large that it is best described as two seperate parts:
+Originally a simple programming exercise, this project is now so large that it is best described as two separate parts:
 1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
 2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [still in progress]  
 Languages: `Python`  
 Version control: `Git` | `BitBucket` | (Private)  
 
+## Custom event ticketing software ##
+Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door. 
+I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.
+Languages: `HTML` `PHP` `CSS` `SQL`
+Links:  
+* [Picture of tickets]({{site.url}}/assets/BDN_tickets.png)
+* [Picture of website]({{site.url}}/assets/BDN_website.png)
+* [Picture of database]({{site.url}}/assets/BDN_database.png)
+* [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
+
 # Upcoming Projects: #
-### Custom event ticket identifying software ###
 ### GUI, dashboard, and analysis for PWDL ###
+### Python wrapper for Managebac ###
 
 ---
 # Programming Languages: #  
@@ -105,6 +115,7 @@ Version control: `Git` | `BitBucket` | (Private)
   * PRAW Reddit API (extensive knowledge)  
   * RClone (intermediate knowledge)
   * TextGenRNN (Recurrent Neural Network for text generation)
+  * Finished 'Python Like You Mean It'
 * Git  
 * PHP  
 * HTML/CSS/JQuery/JS  
