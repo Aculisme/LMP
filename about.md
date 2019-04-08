@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from:
   - /
 ---
-### Projects: ###
+## Projects: ##  
 
 # Network Analysis Version 14 (NV14) #
 A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
@@ -103,7 +103,7 @@ Links:
 * [Picture of database]({{site.url}}/assets/BDN_database.png)
 * [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
 
-### Some non-CS projects: ###
+## Some non-CS projects: ##
 # Drip Irrigation System #
 # Portable Speaker #
 
@@ -113,7 +113,7 @@ Links:
 * Python wrapper for Managebac  
 
 ---
-### Programming Languages: ###  
+## Programming Languages: ##  
 * Python  
   * Tensorflow (limited experience)  
   * Tkinter for GUI creation  
@@ -137,7 +137,7 @@ Links:
 * Highly capable in Google Spreadsheets/Microsoft Excel formula creation 
 
 <!-- --- -->
-### CS Experiences: ###  
+## CS Experiences: ##  
 
 # CERN Internship #  
 I conducted a week-long internship at CERN with the web development and app development teams.  
@@ -146,7 +146,7 @@ I conducted a week-long internship at CERN with the web development and app deve
 I participated in a week-long course in mobile robotics offered by the École Polytechinique Fédérale de Lausanne (EPFL) and hosted by Professor Francesco Mondada. We covered CS/robotics elements including control system programming, mapping/localization (SLAM), behavioral algorithms, and neural nets (RNNs).
 
 <!-- --- -->
-### Non-CS Experiences: ###  
+## Non-CS Experiences: ##  
 
 # Student Council #
 * I was elected as one of 6 members of the student council (STUCO).
