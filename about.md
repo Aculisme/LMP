@@ -14,7 +14,7 @@ Status: `completed`
 Links: [NV14](http://nv14.ga)  
 
 # Network Analysis Version 18 (NV18) #
-A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).
+A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).  
 Languages: `PHP` `SQL` `Git`  
 Status: `on hold`  
 Links: 
@@ -43,12 +43,6 @@ Links:
 * [Duke of Edinburgh's International Award silver level trip recorded with PWDL](https://ia-silver-route-2018.netlify.com)
 * Images: [imgur](https://imgur.com/a/p59KwQB)
 
-# School Social Media Directory #
-Summer coding project   
-Languages: `CSS` `HTML` `SCSS` `JS`  
-Version control: `Git` | `Bitbucket`  
-Status: `on hold`  
-Links: [Social Media Directory](http://nv15.ga)
 
 # ManageBac grades extractor #
 A web scraping tool that extracts grades from [Managebac](https://cdn.managebac.com) and can analyse them in a dashboard window.  
@@ -66,6 +60,13 @@ Languages: `Python`
 Version control: `Git` | `Bitbucket`  
 Status: `in progress`  
 Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)-->  
+
+# School Social Media Directory #
+Summer coding project  
+Languages: `CSS` `HTML` `SCSS` `JS`  
+Version control: `Git` | `Bitbucket`  
+Status: `on hold`  
+Links: [Social Media Directory](http://nv15.ga)
 
 # Reddit image extractor script #
 An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.   
