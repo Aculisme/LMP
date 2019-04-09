@@ -66,7 +66,10 @@ Summer coding project
 Languages: `CSS` `HTML` `SCSS` `JS`  
 Version control: `Git` | `Bitbucket`  
 Status: `on hold`  
-Links: [Social Media Directory](http://nv15.ga)
+Links:  
+* [Social Media Directory (link now dead)](http://nv15.ga)
+* [Screen shots]({{site.url}}/assets/social_media_directory_landing_page.png)
+
 
 # Reddit image extractor script #
 An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.   
