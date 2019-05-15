@@ -5,10 +5,10 @@ permalink: /about/
 redirect_from:
   - /
 ---
-## Projects: ##  
+## Projects ##  
 
 # Network Analysis Version 14 (NV14) #
-A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.   
+A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.  
 Languages: `JavaScript` `Java` `SQL`  
 Status: `completed`  
 Links: [NV14](http://nv14.ga)  
@@ -17,7 +17,8 @@ Links: [NV14](http://nv14.ga)
 A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).  
 Languages: `PHP` `SQL` `Git`  
 Status: `on hold`  
-Links: 
+Links:  
+
 * [4196x4196 Black background]({{site.url}}/assets/nv18_pink.png)
 * [4196x4196 Grey background]({{site.url}}/assets/nv18_pink_white_bg_black_txt.png)
 * [4196x4196 No background, White text]({{site.url}}/assets/nv18_pink_nobg.png)
@@ -29,8 +30,7 @@ With the new system, students scanned their ID card with a barcode scanner, woul
 Despite a complete working product, the school was unable to give access to the student database. The project ended up acting as a proof-of-concept, and subsequently a catalyst for the school to contract a company to install a fully-fledged sign-in system with sliding doors and RFID.  
 Languages: `CSS` `HTML` `PHP`  
 Status: `completed`  
-Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [Directory](https://nationsdesign.org/projects/signin/search.html) | 
-[Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)  
+Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [Directory](https://nationsdesign.org/projects/signin/search.html) | [Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)  
 
 # Portable Weather Data Logger (PWDL) #
 This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle & aunt, a climate scientist & wildlife biologist, who perform dozens of measurements every hour on their research trips in the Peruvian Andes. My Weather Logger is designed to save them time while they focus on their field activities, being able to record the many different atmospheric conditions, log them in a human-readable document, map them (with GPS) perpetually, and with minimal input from the users.
@@ -38,17 +38,17 @@ Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, ex
 Languages: `C++`  
 Status: `completed`  
 Links:  
+
 * [Ski trip GPS recorded with PWDL](https://ski-week-2018.netlify.com)
   * [Google Earth visualization of GPS coordinates](https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F)
 * [Duke of Edinburgh's International Award silver level trip recorded with PWDL](https://ia-silver-route-2018.netlify.com)
 * Images: [imgur](https://imgur.com/a/p59KwQB)
 
-
 # ManageBac grades extractor #
 A web scraping tool that extracts grades from [Managebac](https://cdn.managebac.com) and can analyse them in a dashboard window.  
 Languages: `PHP`  
 Version control: `Git` | `Bitbucket`  
-Status: `on hold`  
+Status: `deprecated`  
 Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index.html)
 
 # Coding Club #
@@ -59,7 +59,7 @@ Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit]
 Languages: `Python`  
 Version control: `Git` | `Bitbucket`  
 Status: `in progress`  
-Links: [Homepage](https://meai.ml)<!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)-->  
+Links: [Homepage](https://meai.ml)  
 
 # School Social Media Directory #
 Summer coding project  
@@ -67,12 +67,12 @@ Languages: `CSS` `HTML` `SCSS` `JS`
 Version control: `Git` | `Bitbucket`  
 Status: `on hold`  
 Links:  
-* [Social Media Directory (link now dead)](http://nv15.ga)
+
+* [Social Media Directory](http://nv15.ga)
 * [Screen shots]({{site.url}}/assets/social_media_directory_landing_page.png)
 
-
 # Reddit image extractor script #
-An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.   
+An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.  
 Languages: `Python`  
 Version control: `Git` | `Github`  
 Status: `on hold`  
@@ -92,6 +92,7 @@ Links: [github](https://github.com/aculisme/UNRG)
 
 # ASCII converter bot #
 Originally a simple programming exercise, this project is now so large that it is best described as two separate parts:
+
 1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
 2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [still in progress]  
 Languages: `Python`  
@@ -107,17 +108,19 @@ Links:
 * [Picture of database]({{site.url}}/assets/BDN_database.png)
 * [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
 
-## Some non-CS projects: ##
+## Some non-CS projects ##
 # Drip Irrigation System #
 # Portable Speaker #
 
 ## Upcoming Projects: ##
+
 * Multithreaded Python bot for Reddit hosted on Raspberry Pi  
 * GUI, dashboard, and analysis for PWDL  
 * Python wrapper for Managebac  
 
 ---
-## Programming Languages: ##  
+## Programming Languages: ##
+
 * Python  
   * Tensorflow (limited experience)  
   * Tkinter for GUI creation  
@@ -133,55 +136,61 @@ Links:
     * MySql  
 * Unix terminal and Command line (intermediate knowledge)
 
-# Other Knowledge: #
+# Other Knowledge #
+
 * Significant 3D modelling software experience (Fusion 360)
 * Soldering and general electronics
 * Significant experience with assembling and programming Arduino
 * Network modelling software (Gephi)
-* Highly capable in Google Spreadsheets/Microsoft Excel formula creation 
+* Highly capable in Google Spreadsheets/Microsoft Excel formula creation  
 
-<!-- --- -->
-## CS Experiences: ##  
+## CS Experiences: ##
 
-# CERN Internship #  
+# CERN Internship #
 I conducted a week-long internship at CERN with the web development and app development teams.  
 
-# EPFL Robotics Course #  
+# EPFL Robotics Course #
 I participated in a week-long course in mobile robotics offered by the École Polytechinique Fédérale de Lausanne (EPFL) and hosted by Professor Francesco Mondada. We covered CS/robotics elements including control system programming, mapping/localization (SLAM), behavioral algorithms, and neural nets (RNNs).
 
-<!-- --- -->
+# MIT Beaver Works Summer Institute #
+I was selected to participate in a month-long summer program at the Massachusetts Institute of Technology (MIT) in Boston, US. I had to complete 3 online courses in Python, Github, and Synthetic Aperture Radar (SAR), before applying to my chosen course: Unmanned Air System Synthetic Aperture Radar (UAS-SAR).  
+Links: [BWSI website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi)
+
 ## Non-CS Experiences: ##  
 
 # Student Council #
-* I was elected as one of 6 members of the student council (STUCO).
+
+* I was elected to be one of 6 members of the student council (STUCO).
 * Went to the annual BETT Techonology In Education conference in London as one of four representatives for my school.
-* Using AGILE strategies learnt from my CERN internship, I operated as technology correspondent for the student council, and launched the STUCO 2018/2019 Progress [Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019").  
+* I operated as technology correspondent for the student council, and launched the STUCO 2018/2019 Progress [Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019").  
 Resources: [Progress Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019")
 
-# CERN Beamline for Schools #  
-[In Progress]
+# World Scholar's Cup #
 
-# World Scholar's Cup #  
 * Top team in Europe (2015)  
 * 8th Place Globally (2016)  
 * Attended the Tournament of Champions at Yale University (2017)
 * Top team in Switzerland (2015)  
 
-# Students' League of Nations #  
+# Students' League of Nations #
+
 * Representative of Mauritania (2017)  
 * Representative of Hungary (2018)  
 
-# University of Waterloo #  
+# University of Waterloo #
+
 * Gauss Contest Certificate of Distinction
 * Pascal Contest
 * Hypatia Contest Certificate of Distinction (2018)
 * Beaver Computing Challenge Certificate of Distinction (2017)  
 * Beaver Computing Challenge Certificate of Distinction (2018)  
+* Euclid Competition 1st in year group, school medal recipient (2019)
 
 # mHealth in Bangladesh #
 I joined an mHealth project in Bangladesh over a three week period under the supervision of Dr. Alain Labrique. I had the great experience of spending time with the coders at mPower in Dhaka, and then working with the rural JiVitA mobile health field project in Gaibandha. I primarily worked on developing video instructions for health workers on using mobile devices connected to the mPower medical registry system.
 
-# Other #  
+# Other #
+
 * Big Science Competition Certificate of High Distinction (2016)
 
 [Download CV]({{site.url}}/assets/Portfolio.pdf)
