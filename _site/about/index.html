@@ -8,13 +8,13 @@
 <meta name="generator" content="Jekyll v3.8.4" />
 <meta property="og:title" content="Portfolio" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="© 2018 Luca Mehl" />
-<meta property="og:description" content="© 2018 Luca Mehl" />
+<meta name="description" content="© 2019 Luca Mehl" />
+<meta property="og:description" content="© 2019 Luca Mehl" />
 <link rel="canonical" href="http://localhost:4000/about/" />
 <meta property="og:url" content="http://localhost:4000/about/" />
 <meta property="og:site_name" content="Luca Mehl" />
 <script type="application/ld+json">
-{"name":"Luca Mehl","description":"© 2018 Luca Mehl","@type":"WebSite","url":"http://localhost:4000/about/","headline":"Portfolio","@context":"http://schema.org"}</script>
+{"name":"Luca Mehl","description":"© 2019 Luca Mehl","@type":"WebSite","url":"http://localhost:4000/about/","headline":"Portfolio","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -22,6 +22,17 @@
   <link rel="icon" href="favicon.png" sizes="16x16">  
   <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Luca Mehl" />
   
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106138589-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106138589-4');
+</script>
+
 </head>
 <body><header class="site-header" role="banner">
 
@@ -47,19 +58,32 @@
   </header>
 
   <div class="post-content">
-    <h1 id="projects"><strong>Projects:</strong></h1>
+    <h4 id="numerical-methods-maths-paper"><strong>Numerical Methods Maths Paper</strong></h4>
 
-<h2 id="network-version-14-nv14">Network Version 14 (NV14)</h2>
-<p>A project attempting to accurately visualize social structures within my year group. The only input is ‘friendships’ according to a poll conducted by 5 students in my yeargroup. Nodes inputted into <a href="https://gephi.org">Gephi</a>, modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin. <br />
+<p>For my Maths Internal Assessment I wrote a paper exploring various numerical numerical methods and their applications in zero-finding and root-solving. I compared the Bisection method, Newton’s method, and Secant method in terms of their rate &amp; order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root.
+Languages: <code class="highlighter-rouge">Python (Matplotlib, Numpy)</code>, <code class="highlighter-rouge">Git</code><br />
+Status: <code class="highlighter-rouge">Pending review</code><br />
+Links:</p>
+
+<ul>
+  <li><a href="http://localhost:4000/assets/Maths_IA_Luca_Mehl.pdf">First draft (currently undergoing moderation)</a></li>
+  <li><a href="https://github.com/Aculisme/zero_algorithms">Github repo of scripts created</a></li>
+</ul>
+
+<h4 id="network-analysis-version-14-nv14"><strong>Network Analysis Version 14 (NV14)</strong></h4>
+
+<p>A project attempting to accurately visualize social structures within my year group. The only input is ‘friendships’ according to a poll conducted by 5 students in my year group. Nodes inputted into <a href="https://gephi.org">Gephi</a>, modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.<br />
 Languages: <code class="highlighter-rouge">JavaScript</code> <code class="highlighter-rouge">Java</code> <code class="highlighter-rouge">SQL</code><br />
 Status: <code class="highlighter-rouge">completed</code><br />
 Links: <a href="http://nv14.ga">NV14</a></p>
 
-<h2 id="network-version-18-nv18">Network Version 18 (NV18)</h2>
-<p>A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).
+<h4 id="network-analysis-version-18-nv18"><strong>Network Analysis Version 18 (NV18)</strong></h4>
+
+<p>A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).<br />
 Languages: <code class="highlighter-rouge">PHP</code> <code class="highlighter-rouge">SQL</code> <code class="highlighter-rouge">Git</code><br />
 Status: <code class="highlighter-rouge">on hold</code><br />
 Links:</p>
+
 <ul>
   <li><a href="http://localhost:4000/assets/nv18_pink.png">4196x4196 Black background</a></li>
   <li><a href="http://localhost:4000/assets/nv18_pink_white_bg_black_txt.png">4196x4196 Grey background</a></li>
@@ -67,67 +91,131 @@ Links:</p>
   <li><a href="http://localhost:4000/assets/nv18_pink_nobg_black_txt.png">4196x4196 No background, Black text</a></li>
 </ul>
 
-<h2 id="sign-in-project">Sign-in project</h2>
-<p>A 6-month project to develop a late-slip dispenser and software.<br />
-The student was able to scan their ID card with a barcode scanner, they would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
-Despite a complete working product, the school was unwilling to give access to the student database. The project ended up acting as a proof of concept, and subsequently a catalyst for the school to employ a company to make a fully-fledged sign-in system with sliding doors and RFID.<br />
+<h4 id="sign-in-project"><strong>Sign-in Project</strong></h4>
+
+<p>A 6-month project to develop a late-slip dispenser and software, created in response to students’ frustration with the previous late arrivals sign-in system, which required them to wait on line to fill out a slip of paper, making them even later for class.<br />
+With the new system, students scanned their ID card with a barcode scanner, would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
+Despite a complete working product, the school was unable to give access to the student database. The project ended up acting as a proof-of-concept, and subsequently a catalyst for the school to contract a company to install a fully-fledged sign-in system with sliding doors and RFID.<br />
 Languages: <code class="highlighter-rouge">CSS</code> <code class="highlighter-rouge">HTML</code> <code class="highlighter-rouge">PHP</code><br />
 Status: <code class="highlighter-rouge">completed</code><br />
-Links: <a href="https://nationsdesign.org/projects/signin/index.html">Landing page</a> | 
-<a href="https://nationsdesign.org/projects/signin/protected/signin.html">Sign-in page (password protected)</a></p>
+Links: <a href="https://nationsdesign.org/projects/signin/index.html">Landing page</a> | <a href="https://nationsdesign.org/projects/signin/search.html">Directory</a> | <a href="https://nationsdesign.org/projects/signin/protected/signin.html">Sign-in page (password protected)</a></p>
 
-<h2 id="portable-weather-data-logger-pwdl">Portable Weather Data Logger (PWDL)</h2>
-<p>Personal project (IB) that records atmospheric conditions, logs them, and allows for them to be mapped.
+<h4 id="portable-weather-data-logger-pwdl"><strong>Portable Weather Data Logger (PWDL)</strong></h4>
+
+<p>This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle &amp; aunt, a climate scientist &amp; wildlife biologist, who perform dozens of measurements every hour on their research trips in the Peruvian Andes. My Weather Logger is designed to save them time while they focus on their field activities, being able to record the many different atmospheric conditions, log them in a human-readable document, map them (with GPS) perpetually, and with minimal input from the users.
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.<br />
 Languages: <code class="highlighter-rouge">C++</code><br />
 Status: <code class="highlighter-rouge">completed</code><br />
 Links:</p>
+
 <ul>
   <li><a href="https://ski-week-2018.netlify.com">Ski trip GPS recorded with PWDL</a>
     <ul>
-      <li><a href="https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F">Google earth rendering</a></li>
+      <li><a href="https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F">Google Earth visualization of GPS coordinates</a></li>
     </ul>
   </li>
-  <li><a href="https://ia-silver-route-2018.netlify.com">DoE silver level trip GPS recorded with PWDL</a></li>
+  <li><a href="https://ia-silver-route-2018.netlify.com">Duke of Edinburgh’s International Award silver level trip recorded with PWDL</a></li>
+  <li><a href="https://imgur.com/a/p59KwQB">Photos of PWDL</a></li>
 </ul>
 
-<h2 id="school-social-media-directory">School Social Media Directory</h2>
-<p>Summer coding project <br />
-Languages: <code class="highlighter-rouge">CSS</code> <code class="highlighter-rouge">HTML</code> <code class="highlighter-rouge">SCSS</code> <code class="highlighter-rouge">JS</code><br />
-Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Bitbucket</code><br />
-Status: <code class="highlighter-rouge">on hold</code><br />
-Links: <a href="http://nv15.ga">Social Media Directory</a></p>
+<h4 id="managebac-grades-extractor"><strong>ManageBac grades extractor</strong></h4>
 
-<h2 id="managebac-grades-extractor">ManageBac grades extractor</h2>
 <p>A web scraping tool that extracts grades from <a href="https://cdn.managebac.com">Managebac</a> and can analyse them in a dashboard window.<br />
 Languages: <code class="highlighter-rouge">PHP</code><br />
 Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Bitbucket</code><br />
-Status: <code class="highlighter-rouge">on hold</code><br />
+Status: <code class="highlighter-rouge">deprecated</code><br />
 Links: <a href="https://nationsdesign.org/projects/signin/MB_scraper/F/index.html">MB Scraper</a></p>
 
-<h2 id="meai-memeeconomy-artificial-intelligence">MEAI (MemeEconomy Artificial Intelligence)</h2>
+<h4 id="coding-club"><strong>Coding Club</strong></h4>
+
+<p>Since my school doesn’t offer formal coding classes, I decided to start the Coding Club with two friends of mine. I recruited roughly 12 students and taught them the fundamentals of website building, including JS, HTML, and CSS. I also acted as a mentor for students in younger grades working on coding projects for school.</p>
+
+<h4 id="meai-memeeconomy-artificial-intelligence"><strong>MEAI (MemeEconomy Artificial Intelligence)</strong></h4>
+
 <p>Collaboration with 3 students (two from UK, 1 from Germany) to create a <a href="https://reddit.com">Reddit</a> bot. Uses database logging, tensorflow, python reddit API (PRAW).<br />
 Languages: <code class="highlighter-rouge">Python</code><br />
 Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Bitbucket</code><br />
 Status: <code class="highlighter-rouge">in progress</code><br />
-Links: <a href="https://meai.ml">Homepage</a><!-- | [investor reddit bot](https://reddit.com/u/me-ai) | [trainer reddit bot](https://reddit.com/u/meai-trainer)--></p>
+Links: <a href="https://meai.ml">Homepage</a></p>
 
-<h2 id="reddit-image-extractor-script">Reddit image extractor script</h2>
-<p>An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder. Currently supports customization of <code class="highlighter-rouge">subreddit</code>,<code class="highlighter-rouge">number of images</code>, and <code class="highlighter-rouge">minimum image score to download</code>.
+<h4 id="school-social-media-directory"><strong>School Social Media Directory</strong></h4>
+
+<p>Summer coding project<br />
+Languages: <code class="highlighter-rouge">CSS</code> <code class="highlighter-rouge">HTML</code> <code class="highlighter-rouge">SCSS</code> <code class="highlighter-rouge">JS</code><br />
+Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Bitbucket</code><br />
+Status: <code class="highlighter-rouge">on hold</code><br />
+Links:</p>
+
+<ul>
+  <li><a href="http://nv15.ga">Social Media Directory</a></li>
+  <li><a href="http://localhost:4000/assets/social_media_directory_landing_page.png">Screen shots</a></li>
+</ul>
+
+<h4 id="reddit-image-extractor-script"><strong>Reddit image extractor script</strong></h4>
+
+<p>An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.<br />
 Languages: <code class="highlighter-rouge">Python</code><br />
 Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Github</code><br />
 Status: <code class="highlighter-rouge">on hold</code><br />
 Links: <a href="https://github.com/aculisme/reddit-image-scraper">reddit image scraper</a></p>
 
-<h2 id="portfolio-website">Portfolio website</h2>
-<p>This website is hosted by Netlify (formerly bitballoon), deployed from <a href="https://github.com/Aculisme/LMP">Github</a>, and created using the <a href="https://jekyllrb.com">Jekyll</a> static website generator.
+<h4 id="portfolio-website"><strong>Portfolio website</strong></h4>
+
+<p>This website is hosted by Netlify (formerly Bitballoon), deployed from <a href="https://github.com/Aculisme/LMP">Github</a>, and created using the <a href="https://jekyllrb.com">Jekyll</a> static website generator.
 Languages: <code class="highlighter-rouge">Git</code> <code class="highlighter-rouge">Markdown</code><br />
 Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">Github</code><br />
 Status: <code class="highlighter-rouge">regularly updated</code><br />
 Links: <a href="https://lucamehl.netlify.com">https://lucamehl.netlify.com</a></p>
 
+<h4 id="reddit-text-generator"><strong>Reddit text generator</strong></h4>
+
+<p>I built this toolkit on top of the fantastic TexGenRnn Python library, allowing for easier text generation training using inputs from the Reddit community.<br />
+[Work in Progress]<br />
+Links: <a href="https://github.com/aculisme/UNRG">github</a></p>
+
+<h4 id="ascii-converter-bot"><strong>ASCII converter bot</strong></h4>
+
+<p>Originally a simple programming exercise, this project is now so large that it is best described as two separate parts:</p>
+
+<ol>
+  <li>An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.</li>
+  <li>A Reddit bot created using PRAW which can be ‘summoned’ to convert a video submission into its ASCII equivalent. [still in progress]<br />
+Languages: <code class="highlighter-rouge">Python</code><br />
+Version control: <code class="highlighter-rouge">Git</code> | <code class="highlighter-rouge">BitBucket</code> | (Private)</li>
+</ol>
+
+<h4 id="custom-event-ticketing-software"><strong>Custom event ticketing software</strong></h4>
+
+<p>Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus’s student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.<br />
+I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.<br />
+Languages: <code class="highlighter-rouge">HTML</code> <code class="highlighter-rouge">PHP</code> <code class="highlighter-rouge">CSS</code> <code class="highlighter-rouge">SQL</code><br />
+Links:</p>
+
+<ul>
+  <li><a href="http://localhost:4000/assets/BDN_tickets.png">Picture of tickets</a></li>
+  <li><a href="http://localhost:4000/assets/BDN_website.png">Picture of website</a></li>
+  <li><a href="http://localhost:4000/assets/BDN_database.png">Picture of database</a></li>
+  <li><a href="https://nationsdesign.org/projects/bdn/test/index.php">Check-in page for organizers (password protected)</a></li>
+</ul>
+
+<h2 id="other-projects">Other projects</h2>
+
+<h4 id="drip-irrigation-system"><strong>Drip Irrigation System</strong></h4>
+
+<h4 id="portable-speaker"><strong>Portable Speaker</strong></h4>
+
+<h2 id="upcoming-projects">Upcoming Projects</h2>
+
+<ul>
+  <li>Multithreaded Python bot for Reddit hosted on Raspberry Pi</li>
+  <li>GUI, dashboard, and analysis for PWDL</li>
+  <li>Python wrapper for Managebac</li>
+</ul>
+
 <hr />
-<h1 id="programming-languages">Programming Languages:</h1>
+
+<h2 id="programming-languages">Programming Languages</h2>
+
 <ul>
   <li>Python
     <ul>
@@ -135,6 +223,8 @@ Links: <a href="https://lucamehl.netlify.com">https://lucamehl.netlify.com</a></
       <li>Tkinter for GUI creation</li>
       <li>PRAW Reddit API (extensive knowledge)</li>
       <li>RClone (intermediate knowledge)</li>
+      <li>TextGenRNN (Recurrent Neural Network for text generation)</li>
+      <li>Finished ‘Python Like You Mean It’</li>
     </ul>
   </li>
   <li>Git</li>
@@ -152,48 +242,111 @@ Links: <a href="https://lucamehl.netlify.com">https://lucamehl.netlify.com</a></
   <li>Unix terminal and Command line (intermediate knowledge)</li>
 </ul>
 
-<hr />
-<h1 id="experiences">Experiences:</h1>
+<h2 id="other-knowledge">Other Knowledge</h2>
 
-<h3 id="cern-internship">CERN Internship</h3>
-<p>I conducted a week-long internship at CERN with the web development and app development teams.</p>
-
-<h3 id="epfl-robotics-course">EPFL Robotics Course</h3>
-<p>I participated in a week-long crash course to some big CS/robotics elements, including control system programming, mapping/localisation (SLAM), behavioural algorithms, and neural nets.</p>
-
-<hr />
-<h1 id="non-cs-experiences">Non-CS Experiences:</h1>
-
-<h3 id="cern-beamline-for-schools">CERN Beamline for Schools</h3>
-
-<h3 id="world-scholars-cup">World Scholar’s Cup</h3>
 <ul>
-  <li>Top team in Switzerland (2015)</li>
-  <li>8th Place Globally (2016)</li>
-  <li>Top team in Europe (2015)</li>
+  <li>Significant 3D modelling software experience (Fusion 360)</li>
+  <li>Soldering and general electronics</li>
+  <li>Significant experience with assembling and programming Arduino</li>
+  <li>Network modelling software (Gephi)</li>
+  <li>Highly capable in Google Spreadsheets/Microsoft Excel formula creation</li>
 </ul>
 
-<h3 id="students-league-of-nations">Student’s League of Nations</h3>
+<h2 id="cs-experiences">CS Experiences</h2>
+
+<h4 id="cern-internship"><strong>CERN Internship</strong></h4>
+
+<p>I conducted a week-long internship at CERN with the web development and app development teams.</p>
+
+<h4 id="epfl-robotics-course"><strong>EPFL Robotics Course</strong></h4>
+
+<p>I participated in a week-long course in mobile robotics offered by the École Polytechinique Fédérale de Lausanne (EPFL) and hosted by Professor Francesco Mondada. We covered CS/robotics elements including control system programming, mapping/localization (SLAM), behavioral algorithms, and neural nets (RNNs).</p>
+
+<h4 id="mit-beaver-works-summer-institute"><strong>MIT Beaver Works Summer Institute</strong></h4>
+
+<p>I was selected to participate in a month-long summer program at the Massachusetts Institute of Technology (MIT) in Boston, US. I had to complete 3 online courses in Python, Github, and Synthetic Aperture Radar (SAR), before applying to my chosen course: Unmanned Air System Synthetic Aperture Radar (UAS-SAR).<br />
+Links: <a href="https://beaverworks.ll.mit.edu/CMS/bw/bwsi">BWSI website</a></p>
+
+<hr />
+
+<h2 id="academics">Academics</h2>
+
+<h4 id="student-council"><strong>Student Council</strong></h4>
+
+<ul>
+  <li>I was elected to be one of 6 members of the student council (STUCO).</li>
+  <li>Went to the annual BETT Technology In Education conference in London as one of four representatives for my school.</li>
+  <li>I operated as technology correspondent for the student council, and launched the STUCO 2018/2019 <a href="&quot;https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019&quot;">Progress Board</a>.</li>
+</ul>
+
+<h4 id="world-scholars-cup"><strong>World Scholar’s Cup</strong></h4>
+
+<ul>
+  <li>Top team in Europe (2015)</li>
+  <li>8th Place Globally (2016)</li>
+  <li>Attended the Tournament of Champions at Yale University (2017)</li>
+  <li>Top team in Switzerland (2015)</li>
+</ul>
+
+<h4 id="students-league-of-nations"><strong>Students’ League of Nations</strong></h4>
+
 <ul>
   <li>Representative of Mauritania (2017)</li>
   <li>Representative of Hungary (2018)</li>
 </ul>
 
-<h3 id="university-of-waterloo">University of Waterloo</h3>
+<h4 id="sat"><strong>SAT</strong></h4>
+
+<p>1470 (770 English, 700 Maths) on first taking of the test. To be retaken in Y13 to do the essay.</p>
+
+<h4 id="university-of-waterloo"><strong>University of Waterloo</strong></h4>
+
 <ul>
-  <li>Gauss Contest</li>
-  <li>Pascal Contest</li>
+  <li>Gauss Contest Certificate of Distinction</li>
+  <li>Pascal Contest Certificate of Distinction</li>
   <li>Hypatia Contest Certificate of Distinction (2018)</li>
   <li>Beaver Computing Challenge Certificate of Distinction (2017)</li>
   <li>Beaver Computing Challenge Certificate of Distinction (2018)</li>
+  <li><strong>Euclid Competition 1st in year group, school medal recipient (2019)</strong></li>
 </ul>
 
-<h3 id="other">Other</h3>
+<h4 id="mhealth-in-bangladesh"><strong>mHealth in Bangladesh</strong></h4>
+
+<p>I joined an mHealth project in Bangladesh over a three week period under the supervision of Dr. Alain Labrique. I had the great experience of spending time with the coders at mPower in Dhaka, and then working with the rural JiVitA mobile health field project in Gaibandha. I primarily worked on developing video instructions for health workers on using mobile devices connected to the mPower medical registry system.</p>
+
+<h4 id="duke-of-edinburghs-international-award"><strong>Duke of Edinburgh’s International Award</strong></h4>
+
 <ul>
-  <li>Big Science Competition Certificate of High Destinction (2016)</li>
+  <li><strong>Bronze level recipient</strong>
+    <ul>
+      <li>Website development: 15h</li>
+      <li>Badminton: 26h</li>
+      <li>Coaching/teaching: 15h</li>
+    </ul>
+  </li>
+  <li><strong>Silver level recipient</strong>
+    <ul>
+      <li>Programming: 26h</li>
+      <li>Badminton: 26h</li>
+      <li>Tournament organization: 26h</li>
+    </ul>
+  </li>
+  <li><strong>Gold level in progress</strong>
+    <ul>
+      <li>Data visualization: 52h</li>
+      <li>Badminton: 52h</li>
+      <li>Student council: 52h</li>
+    </ul>
+  </li>
 </ul>
 
-<p><a href="http://localhost:4000/assets/CV.png">Download CV</a></p>
+<h4 id="other"><strong>Other</strong></h4>
+
+<ul>
+  <li>Big Science Competition Certificate of High Distinction (2016)</li>
+</ul>
+
+<h3 id="download-cv"><a href="http://localhost:4000/assets/Portfolio.pdf">Download CV</a></h3>
 
   </div>
 
@@ -217,7 +370,7 @@ Links: <a href="https://lucamehl.netlify.com">https://lucamehl.netlify.com</a></
 </div>
 
       <div class="footer-col footer-col-3">
-        <p>© 2018 Luca Mehl</p>
+        <p>© 2019 Luca Mehl</p>
       </div>
     </div>
 
