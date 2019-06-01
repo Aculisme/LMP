@@ -235,6 +235,7 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
   * Badminton: 26h
   * Tournament organization: 26h
 * **Gold level in progress**
+  * 6-person team leader
   * Data visualization: 52h
   * Badminton: 52h
   * Student council: 52h
@@ -244,3 +245,4 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 * Big Science Competition Certificate of High Distinction (2016)
 
 ### [Download CV]({{site.url}}/assets/Portfolio.pdf)
+<!-- bundle exec jekyll serve -->
